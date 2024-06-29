@@ -231,9 +231,9 @@ img {
 /*=============== HOME ===============*/
 .home__img {
   width: 250px;
-  position: absolute;
-  top: -16rem;
-  right: 1.5rem;
+  position: relative;
+  top: -2rem;
+  right: -2rem;
 }
 
 .home__data {
@@ -582,7 +582,7 @@ img {
   }
   .home__img {
     width: 200px;
-    top: -13rem;
+    top: 1rem;
   }
   .home__title {
     top: -4rem;
@@ -623,8 +623,8 @@ img {
     padding-top: 2rem;
   }
   .home__img {
-    top: -7rem;
-    left: 0;
+    top: 6rem;
+    left: 2rem;
   }
   .specs__img {
     position: initial;
@@ -689,7 +689,7 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
   .home__img {
-    top: -9rem;
+    top: 3rem;
     left: 4rem;
   }
   .home__data {
@@ -745,7 +745,7 @@ img {
   }
   .home__img {
     width: 300px;
-    top: -15rem;
+    top: 3rem;
   }
   .home__title {
     top: -5rem;
